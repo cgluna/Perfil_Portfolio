@@ -7,4 +7,4 @@ Projeto se trata de uma tela web onde são exibidas informações minhas, como u
 1. HTML
 2. CSS
 3. Extensões como: Emmet, Eslint, Live Server, GitLens (...)
-4. 
+4. Prototiação com Figma
