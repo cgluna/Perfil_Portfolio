@@ -4,7 +4,7 @@ Projeto se trata de uma tela web onde são exibidas informações minhas, como u
 
 ### Conteúdos abordados no curso e aplicados ou usados para desenvolver o projeto:
 
-1. HTML
-2. CSS
-3. Extensões como: Emmet, Eslint, Live Server, GitLens (...)
+1. HTML: estrutura de arquivos básica, tags, boas-práticas, (...)  
+2. CSS: classes, posicionamento, flexbox, estilização básica, (...)
+3. Extensões como: Emmet, Eslint, Live Server, GitLens, (...)
 4. Prototiação com Figma

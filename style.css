@@ -38,3 +38,22 @@ strong {
     font-size: 20px;
     font-family: "Montserrat", sans-serif;
 }
+
+.apresentacao__links { /*classe de espaçamento dos botões */
+
+    display: flex; /* toda vez que usar flexbox, é necessário usar o display:flex no elemento pai. No caso, é esse.*/
+    justify-content: space-between;
+}
+
+.apresentacao__links__link { /*classe de estilização dos botões */
+    background-color: #22d4fd;
+    width: 280px; /* ajustar largura */
+    text-align: center; /* alinhar texto*/
+    border-radius: 16px; /* arrendodamento */
+    font-size: 24px;
+    padding: 21.5px 0; /* O primeiro valor inserido no padding é referente à horizontal, o segundo seria pra horizontal*/
+    text-decoration: none; /* retirando o sublinhado do texto do botão */
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
