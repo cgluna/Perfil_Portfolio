@@ -19,7 +19,7 @@ strong {
 }
 
 .apresentacao {
-    margin: 5%;
+    margin: 5% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -27,6 +27,10 @@ strong {
 
 .apresentacao__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    
 }
 
 .apresentacao__conteudo__titulo {
