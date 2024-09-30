@@ -7,7 +7,6 @@
 }   
 
 body {
-    height: 100vh;
     box-sizing: border-box;
     background-color: #000000;
     color: #F6F6F6;
@@ -19,7 +18,7 @@ strong {
 }
 
 .apresentacao {
-    margin: 5% 10%;
+    padding: 8% 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -58,6 +57,9 @@ strong {
 }
 .apresentacao__links__link { /*classe de estilização dos botões */
     border: 2px solid #22D4FD;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
     width: 380px; /* ajustar largura */
     text-align: center; /* alinhar texto*/
     border-radius: 16px; /* arrendodamento */
@@ -67,4 +69,18 @@ strong {
     color: #F6F6F6;
     font-family: "Montserrat", sans-serif;
     font-weight: 600;
+}
+
+.apresentacao__links__link:hover {
+    background-color: #272727; 
+}
+
+.rodape {
+    color:#000000;
+    background-color: #22D4FD;
+    padding: 24px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-size: 24;
+    font-weight: 400;
 }
