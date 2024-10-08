@@ -132,7 +132,13 @@ strong {
         flex-direction: column-reverse;
     }   
 
-    .apresentacao__conteudo {
-        width: 100%
+    
+    .apresentacao {
+        padding: 5%;
     }
+    
+    .apresentacao__conteudo {
+        width: auto;
+    }
+
 }
