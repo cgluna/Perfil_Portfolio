@@ -8,3 +8,5 @@ Projeto se trata de uma tela web onde são exibidas informações minhas, como u
 2. CSS: variáveis, cabeçalhos, footers, classes, flexbox, estilização básica, (...)
 3. Extensões como: Emmet, Eslint, Live Server, GitLens, (...)
 4. Prototiação com Figma
+5. Publicação de projeto com Github e Vercel (perfil-portfolio-seven.vercel.app)
+6. Responsividade 
